@@ -14,8 +14,7 @@ Total Runtime Complexity is O(nlog(n) + log(n)) = O(nlog(n))
 
 ### References 
 - https://github.com/klyatskin/klyatskin.github.io
-- https://www.raywenderlich
-.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach
+- https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach
 
 
 ### Improvements for future
